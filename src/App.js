@@ -14,7 +14,6 @@ function App() {
   return (
     <div className="App">
      <Navbar/>
-     <Homescreen/>
      <Routes>
       <Route path='login' element={<Login/>}/>
       <Route path='/' element={<Homescreen/>}/>
@@ -23,6 +22,7 @@ function App() {
       <Route path='contact' element={<Contactscreen/>}/>
       <Route path='openaccount'element={<Openaccount/>}/>
      </Routes>
+     <Homescreen/>
      <Footercomponent/>
     </div>
      
