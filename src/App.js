@@ -11,18 +11,20 @@ import Login from './Pages/Login';
 import Navbar from './Components/UI/Navbar';
 import Footercomponent from './Components/UI/Footercomponent';
 function App() {
+  
+  
   return (
     <div className="App">
-     <Navbar/>
+    <Navbar/>
      <Routes>
       <Route path='login' element={<Login/>}/>
       <Route path='/' element={<Homescreen/>}/>
+      <Route path='/client-winkywebbers' element={<Homescreen/>}/>
       <Route path='/services' element={<Servicesscreen/>}/>
       <Route path='/about' element={<Aboutscreen/>}/>
       <Route path='contact' element={<Contactscreen/>}/>
       <Route path='openaccount'element={<Openaccount/>}/>
      </Routes>
-     <Homescreen/>
      <Footercomponent/>
     </div>
      
