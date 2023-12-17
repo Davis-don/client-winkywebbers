@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/client-winkywebbers/static/css/main.c0cd2690.css",
-    "main.js": "/client-winkywebbers/static/js/main.f33efd78.js",
+    "main.css": "/client-winkywebbers/static/css/main.0432b601.css",
+    "main.js": "/client-winkywebbers/static/js/main.98cb86b1.js",
     "static/js/787.d5fa4d18.chunk.js": "/client-winkywebbers/static/js/787.d5fa4d18.chunk.js",
     "static/media/beier-c-7-G72Kt6QDA-unsplash.jpg": "/client-winkywebbers/static/media/beier-c-7-G72Kt6QDA-unsplash.b7b75ac604abd085df2b.jpg",
-    "static/media/eftakher-alam-i1VQZsU86ok-unsplash.jpg": "/client-winkywebbers/static/media/eftakher-alam-i1VQZsU86ok-unsplash.057bd7d2b569e45f5bc9.jpg",
-    "static/media/austin-distel-tLZhFRLj6nY-unsplash.jpg": "/client-winkywebbers/static/media/austin-distel-tLZhFRLj6nY-unsplash.800037349724eb0c620f.jpg",
     "static/media/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg": "/client-winkywebbers/static/media/ux-indonesia-qC2n6RQU4Vw-unsplash.20ab1683aeab137234a8.jpg",
     "static/media/david-marcu-78A265wPiO4-unsplash.jpg": "/client-winkywebbers/static/media/david-marcu-78A265wPiO4-unsplash.3062805cacb7d2afba75.jpg",
+    "static/media/pexels-oladimeji-ajegbile-2379886.jpg": "/client-winkywebbers/static/media/pexels-oladimeji-ajegbile-2379886.a92d834eda5cd5d1cd18.jpg",
     "static/media/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": "/client-winkywebbers/static/media/ales-nesetril-Im7lZjxeLhg-unsplash.37f9618ac10afa3bfcdd.jpg",
     "static/media/milad-fakurian-JTKKRK05NAM-unsplash.jpg": "/client-winkywebbers/static/media/milad-fakurian-JTKKRK05NAM-unsplash.342d807ec1d3c75b0293.jpg",
-    "static/media/carlos-muza-hpjSkU2UYSU-unsplash.jpg": "/client-winkywebbers/static/media/carlos-muza-hpjSkU2UYSU-unsplash.54af8448d526e3a1863b.jpg",
     "static/media/donieimg.jpg": "/client-winkywebbers/static/media/donieimg.f39b2d83cefa122a10ec.jpg",
     "index.html": "/client-winkywebbers/index.html",
-    "main.c0cd2690.css.map": "/client-winkywebbers/static/css/main.c0cd2690.css.map",
-    "main.f33efd78.js.map": "/client-winkywebbers/static/js/main.f33efd78.js.map",
+    "main.0432b601.css.map": "/client-winkywebbers/static/css/main.0432b601.css.map",
+    "main.98cb86b1.js.map": "/client-winkywebbers/static/js/main.98cb86b1.js.map",
     "787.d5fa4d18.chunk.js.map": "/client-winkywebbers/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0cd2690.css",
-    "static/js/main.f33efd78.js"
+    "static/css/main.0432b601.css",
+    "static/js/main.98cb86b1.js"
   ]
 }
