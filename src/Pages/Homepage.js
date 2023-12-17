@@ -69,9 +69,9 @@ export default function Homepage() {
             <h5 style={{textAlign:'center'}} className=' service-t'>App Development</h5>
             <p className='text-light container-fluid'>We develop interactive applications that enhance communication and distribution for maximum output</p>
             </div>
-            <div className='see-more-btn-div'>
-              <Link to="/Services">  <button className='btn text-light see-more'type='button'>See more</button></Link>
             </div>
+            <div className='see-more-btn-div'>
+            <Link to="/Services">  <button className='btn text-light see-more'type='button'>See more</button></Link>
             </div>
         </div>
         <div className='plan p-3'>
@@ -104,6 +104,7 @@ We allow our clients to choose a plan that best fits their requirements.</p>
             </div>
             <div className='testimonials'>
                 <h5 style={{textAlign:'center'}}>What our clients say about us</h5>
+                <div className='testimonial-overall-holder'>
                 <div className='testimonial-content'>
                     <div className='testimonial-align'>
                     <div className='client-image-div'>
@@ -115,6 +116,19 @@ We allow our clients to choose a plan that best fits their requirements.</p>
                         <p>Winky webbers is the best company that I have ever worked with.I really love the company so much</p>
                     </div>
                     </div>
+                </div>
+                <div className='testimonial-content'>
+                    <div className='testimonial-align'>
+                    <div className='client-image-div'>
+                   <img className='rounded-circle'src={useimg}alt='image of person who comments'/>
+                    </div>
+                    <div className='testimonial-comment'>
+                        <h6>Ikou Davis</h6>
+                        <small>CEO Winky Webbers</small>
+                        <p>Winky webbers is the best company that I have ever worked with.I really love the company so much</p>
+                    </div>
+                    </div>
+                </div>
                 </div>
             </div>
     </div>
