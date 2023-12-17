@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/client-winkywebbers/static/css/main.0432b601.css",
-    "main.js": "/client-winkywebbers/static/js/main.98cb86b1.js",
+    "main.css": "/client-winkywebbers/static/css/main.cdab2953.css",
+    "main.js": "/client-winkywebbers/static/js/main.b75d849d.js",
     "static/js/787.d5fa4d18.chunk.js": "/client-winkywebbers/static/js/787.d5fa4d18.chunk.js",
     "static/media/beier-c-7-G72Kt6QDA-unsplash.jpg": "/client-winkywebbers/static/media/beier-c-7-G72Kt6QDA-unsplash.b7b75ac604abd085df2b.jpg",
     "static/media/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg": "/client-winkywebbers/static/media/ux-indonesia-qC2n6RQU4Vw-unsplash.20ab1683aeab137234a8.jpg",
@@ -11,12 +11,12 @@
     "static/media/milad-fakurian-JTKKRK05NAM-unsplash.jpg": "/client-winkywebbers/static/media/milad-fakurian-JTKKRK05NAM-unsplash.342d807ec1d3c75b0293.jpg",
     "static/media/donieimg.jpg": "/client-winkywebbers/static/media/donieimg.f39b2d83cefa122a10ec.jpg",
     "index.html": "/client-winkywebbers/index.html",
-    "main.0432b601.css.map": "/client-winkywebbers/static/css/main.0432b601.css.map",
-    "main.98cb86b1.js.map": "/client-winkywebbers/static/js/main.98cb86b1.js.map",
+    "main.cdab2953.css.map": "/client-winkywebbers/static/css/main.cdab2953.css.map",
+    "main.b75d849d.js.map": "/client-winkywebbers/static/js/main.b75d849d.js.map",
     "787.d5fa4d18.chunk.js.map": "/client-winkywebbers/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0432b601.css",
-    "static/js/main.98cb86b1.js"
+    "static/css/main.cdab2953.css",
+    "static/js/main.b75d849d.js"
   ]
 }
