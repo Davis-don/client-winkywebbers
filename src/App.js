@@ -5,7 +5,7 @@ import Aboutscreen from './Pages/Aboutscreen';
 import Servicesscreen from './Pages/Servicesscreen';
 import Contactscreen from './Pages/Contactscreen';
 import Openaccount from './Pages/Openaccount';
-// import Dashboard from './Pages/Dashboard';
+import Dashboard from './Pages/Dashboard';
 import Login from './Pages/Login';
 import Navbar from './Components/UI/Navbar';
 import Footercomponent from './Components/UI/Footercomponent';
@@ -24,7 +24,7 @@ function App() {
   <Route path='/about' element={<Aboutscreen/>}/>
   <Route path='contact' element={<Contactscreen/>}/>
   <Route path='openaccount'element={<Openaccount/>}/>
-  {/* <Route path='/personalaccount'element={<Dashboard/>}/> */}
+  <Route path='/personalaccount'element={<Dashboard/>}/>
  </Routes>
 </div>
      

@@ -7,7 +7,6 @@ import Companyname from '../Companyname';
 import Menuiconcomonent from '../Menuiconcomonent';
 import { IoMdClose } from "react-icons/io";
 
-
 export default function Navbar() {
     var [mount,Setmount]=useState(false);
     var [active,Isactive]=useState();
